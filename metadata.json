@@ -1,0 +1,30 @@
+{
+    "Patient_Name": {
+        "type": "string",
+        "description": "Pacienta pilns vārds"
+    },
+    "Blood_Group": {
+        "type": "string",
+        "description": "Asins grupa"
+    },
+    "Medical_Condition": {
+        "type": "string",
+        "description": "Hroniska slimība vai diagnoze"
+    },
+    "Age": {
+        "type": "float",
+        "description": "Pacienta vecums (gados)"
+    },
+    "Medication": {
+        "type": "string",
+        "description": "Izrakstītās zāles"
+    },
+    "Gender": {
+        "type": "string",
+        "description": "Pacienta dzimums"
+    },
+    "Date_of_Birth": {
+        "type": "string",
+        "description": "Dzimšanas datums"
+    }
+}
